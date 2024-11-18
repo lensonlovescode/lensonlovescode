@@ -1,4 +1,4 @@
-Lenson📎<br>Currently a CS student...<br>Software Engineering @ALX_Kenya
+`Lenson Mutugi`<br>`Currently a CS student...`<br>`Software Engineering @ALX_Kenya`
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lenson-mutugi-b425701ab) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fwszap)
